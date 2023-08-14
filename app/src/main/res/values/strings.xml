@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="msg">Ask something</string>
+    <string name="subtext">Welcome to ChatBot Try it now!</string>
+</resources>
